@@ -1,0 +1,3 @@
+candy 0 350 
+jp 1 550 
+numchok 0 200 

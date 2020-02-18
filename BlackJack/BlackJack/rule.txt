@@ -1,0 +1,8 @@
+Below are the basic rules:
+- Beat the dealer's  hand without going over 21.
+- Face cards are worth 10, Aces are worth 1 or 11, whichever makes a better hand.
+- Each player starts with two cards, and one of the dealer's cards is hidden until the end.
+- Type 'hit' to ask for another card.Type 'doubledown'to draw one card and bet more credit. Type 'stand' to hold your total and end your turn.
+- If you go over 21 you bust, and the dealer wins regardless of his hand.
+- If you are dealt 21 from the start (Ace & 10), you got a blackjack. 
+If you get a blackjack, you win 1.5 times the amount of your bet automatically, unless the dealer also gets a blackjack, in which case it is a push.
